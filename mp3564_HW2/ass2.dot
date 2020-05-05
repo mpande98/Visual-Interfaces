@@ -1,0 +1,222 @@
+# rename this file to ass2.dot
+# put this in a directory that is reachable on ASS2PATH
+# put the images in a subdirectory of ASS2PATH called Images
+# download graphviz from graphviz.com
+# set up GVPATH and go to the command line processor
+# execute (after making sure the paths resolve) the one line command:
+# GVPATH\graphviz2.38\bin\neato -Tps -Goverlap=scale -oASS2PATH\ass2.ps ASS2PATH\ass2.dot
+# Adobe Acrobat will convert the *.ps file into a *.pdf to display
+# let the instructor know if and when this works!
+
+digraph Ass2 {
+center = true;
+size = "7.5, 10";
+orientation = landscape;
+node [shape = plaintext];
+
+N01 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i01.jpg"/></td>
+   </tr></table>>]
+N02 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i02.jpg"/></td>
+   </tr></table>>]
+N03 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i03.jpg"/></td>
+   </tr></table>>]
+N04 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i04.jpg"/></td>
+   </tr></table>>]
+N05 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i05.jpg"/></td>
+   </tr></table>>]
+N06 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i06.jpg"/></td>
+   </tr></table>>]
+N07 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i07.jpg"/></td>
+   </tr></table>>]
+N08 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i08.jpg"/></td>
+   </tr></table>>]
+N09 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i09.jpg"/></td>
+   </tr></table>>]
+N10 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i10.jpg"/></td>
+   </tr></table>>]
+N11 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i11.jpg"/></td>
+   </tr></table>>]
+N12 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i12.jpg"/></td>
+   </tr></table>>]
+N13 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i13.jpg"/></td>
+   </tr></table>>]
+N14 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i14.jpg"/></td>
+   </tr></table>>]
+N15 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i15.jpg"/></td>
+   </tr></table>>]
+N16 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i16.jpg"/></td>
+   </tr></table>>]
+N17 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i17.jpg"/></td>
+   </tr></table>>]
+N18 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i18.jpg"/></td>
+   </tr></table>>]
+N19 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i19.jpg"/></td>
+   </tr></table>>]
+N20 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i20.jpg"/></td>
+   </tr></table>>]
+N21 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i21.jpg"/></td>
+   </tr></table>>]
+N22 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i22.jpg"/></td>
+   </tr></table>>]
+N23 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i23.jpg"/></td>
+   </tr></table>>]
+N24 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i24.jpg"/></td>
+   </tr></table>>]
+N25 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i25.jpg"/></td>
+   </tr></table>>]
+N26 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i26.jpg"/></td>
+   </tr></table>>]
+N27 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i27.jpg"/></td>
+   </tr></table>>]
+N28 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i28.jpg"/></td>
+   </tr></table>>]
+N29 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i29.jpg"/></td>
+   </tr></table>>]
+N30 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i30.jpg"/></td>
+   </tr></table>>]
+N31 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i31.jpg"/></td>
+   </tr></table>>]
+N32 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i32.jpg"/></td>
+   </tr></table>>]
+N33 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i33.jpg"/></td>
+   </tr></table>>]
+N34 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i34.jpg"/></td>
+   </tr></table>>]
+N35 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i35.jpg"/></td>
+   </tr></table>>]
+N36 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i36.jpg"/></td>
+   </tr></table>>]
+N37 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i37.jpg"/></td>
+   </tr></table>>]
+N38 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i38.jpg"/></td>
+   </tr></table>>]
+N39 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i39.jpg"/></td>
+   </tr></table>>]
+N40 [label = <<table border="0"><tr>
+      <td fixedsize="true" height="60" width="89"><img src="ASS2PATH\Images\i40.jpg"/></td>
+   </tr></table>>]
+
+# first choice style is bold and normal
+N01 -> N08 [style = "bold"; arrowhead = "normal"]
+N02 -> N15 [style = "bold"; arrowhead = "normal"]
+N03 -> N04 [style = "bold"; arrowhead = "normal"]
+N04 -> N03 [style = "bold"; arrowhead = "normal"]
+N05 -> N06 [style = "bold"; arrowhead = "normal"]
+N06 -> N05 [style = "bold"; arrowhead = "normal"]
+N07 -> N09 [style = "bold"; arrowhead = "normal"]
+N08 -> N01 [style = "bold"; arrowhead = "normal"]
+N09 -> N07 [style = "bold"; arrowhead = "normal"]
+N10 -> N16 [style = "bold"; arrowhead = "normal"]
+N11 -> N06 [style = "bold"; arrowhead = "normal"]
+N12 -> N14 [style = "bold"; arrowhead = "normal"]
+N13 -> N14 [style = "bold"; arrowhead = "normal"]
+N14 -> N12 [style = "bold"; arrowhead = "normal"]
+N15 -> N06 [style = "bold"; arrowhead = "normal"]
+N16 -> N10 [style = "bold"; arrowhead = "normal"]
+N17 -> N18 [style = "bold"; arrowhead = "normal"]
+N18 -> N17 [style = "bold"; arrowhead = "normal"]
+N19 -> N24 [style = "bold"; arrowhead = "normal"]
+N20 -> N23 [style = "bold"; arrowhead = "normal"]
+N21 -> N18 [style = "bold"; arrowhead = "normal"]
+N22 -> N21 [style = "bold"; arrowhead = "normal"]
+N23 -> N24 [style = "bold"; arrowhead = "normal"]
+N24 -> N19 [style = "bold"; arrowhead = "normal"]
+N25 -> N26 [style = "bold"; arrowhead = "normal"]
+N26 -> N25 [style = "bold"; arrowhead = "normal"]
+N27 -> N32 [style = "bold"; arrowhead = "normal"]
+N28 -> N25 [style = "bold"; arrowhead = "normal"]
+N29 -> N30 [style = "bold"; arrowhead = "normal"]
+N30 -> N29 [style = "bold"; arrowhead = "normal"]
+N31 -> N32 [style = "bold"; arrowhead = "normal"]
+N32 -> N31 [style = "bold"; arrowhead = "normal"]
+N33 -> N28 [style = "bold"; arrowhead = "normal"]
+N34 -> N22 [style = "bold"; arrowhead = "normal"]
+N35 -> N18 [style = "bold"; arrowhead = "normal"]
+N36 -> N37 [style = "bold"; arrowhead = "normal"]
+N37 -> N36 [style = "bold"; arrowhead = "normal"]
+N38 -> N36 [style = "bold"; arrowhead = "normal"]
+N39 -> N21 [style = "bold"; arrowhead = "normal"]
+N40 -> N35 [style = "bold"; arrowhead = "normal"]
+
+# second choice style is solid and empty
+N01 -> N03 [style = "solid"; arrowhead = "empty"]
+N02 -> N16 [style = "solid"; arrowhead = "empty"]
+N03 -> N08 [style = "solid"; arrowhead = "empty"]
+N04 -> N01 [style = "solid"; arrowhead = "empty"]
+N05 -> N07 [style = "solid"; arrowhead = "empty"]
+N06 -> N07 [style = "solid"; arrowhead = "empty"]
+N07 -> N06 [style = "solid"; arrowhead = "empty"]
+N08 -> N03 [style = "solid"; arrowhead = "empty"]
+N09 -> N06 [style = "solid"; arrowhead = "empty"]
+N10 -> N01 [style = "solid"; arrowhead = "empty"]
+N11 -> N07 [style = "solid"; arrowhead = "empty"]
+N12 -> N13 [style = "solid"; arrowhead = "empty"]
+N13 -> N12 [style = "solid"; arrowhead = "empty"]
+N14 -> N13 [style = "solid"; arrowhead = "empty"]
+N15 -> N09 [style = "solid"; arrowhead = "empty"]
+N16 -> N15 [style = "solid"; arrowhead = "empty"]
+N17 -> N19 [style = "solid"; arrowhead = "empty"]
+N18 -> N23 [style = "solid"; arrowhead = "empty"]
+N19 -> N18 [style = "solid"; arrowhead = "empty"]
+N20 -> N40 [style = "solid"; arrowhead = "empty"]
+N21 -> N22 [style = "solid"; arrowhead = "empty"]
+N22 -> N29 [style = "solid"; arrowhead = "empty"]
+N23 -> N18 [style = "solid"; arrowhead = "empty"]
+N24 -> N23 [style = "solid"; arrowhead = "empty"]
+N25 -> N28 [style = "solid"; arrowhead = "empty"]
+N26 -> N28 [style = "solid"; arrowhead = "empty"]
+N27 -> N31 [style = "solid"; arrowhead = "empty"]
+N28 -> N33 [style = "solid"; arrowhead = "empty"]
+N29 -> N22 [style = "solid"; arrowhead = "empty"]
+N30 -> N22 [style = "solid"; arrowhead = "empty"]
+N31 -> N27 [style = "solid"; arrowhead = "empty"]
+N32 -> N19 [style = "solid"; arrowhead = "empty"]
+N33 -> N35 [style = "solid"; arrowhead = "empty"]
+N34 -> N21 [style = "solid"; arrowhead = "empty"]
+N35 -> N36 [style = "solid"; arrowhead = "empty"]
+N36 -> N38 [style = "solid"; arrowhead = "empty"]
+N37 -> N24 [style = "solid"; arrowhead = "empty"]
+N38 -> N39 [style = "solid"; arrowhead = "empty"]
+N39 -> N22 [style = "solid"; arrowhead = "empty"]
+N40 -> N33 [style = "solid"; arrowhead = "empty"]
+
+}
